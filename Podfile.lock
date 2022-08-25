@@ -1,5 +1,9 @@
 PODS:
-  - Reveal-SDK (24)
+  - Reveal-SDK (24.1.1)
+  - gRPC-Core (27.1.1)
+  - SDWebImage (11.1.1)
+  - FirebaseInstanceID (1.1.1)
+  - TensorFlowLiteObjC (7.1.1)
 
 DEPENDENCIES:
   - Reveal-SDK (= 24)
