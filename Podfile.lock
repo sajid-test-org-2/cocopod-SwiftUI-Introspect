@@ -9,6 +9,11 @@ PODS:
 
 DEPENDENCIES:
   - Reveal-SDK (= 24)
+  - KingfisherWebP (= 24)
+  - gRPC-Core (= 24)
+  - SDWebImage (= 24)
+  - FirebaseInstanceID (= 24)
+  - TensorFlowLiteObjC (= 24)
 
 SPEC REPOS:
   trunk:
