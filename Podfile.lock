@@ -6,6 +6,7 @@ PODS:
   - FirebaseInstanceID (1.1.1)
   - TensorFlowLiteObjC (7.1.1)
   - Masonry (1.2)
+  - FirebaseAnalytics (1.1.1)
   
 
 DEPENDENCIES:
@@ -16,6 +17,7 @@ DEPENDENCIES:
   - FirebaseInstanceID (= 24)
   - TensorFlowLiteObjC (= 24)
   - Masonry (= 24)
+  - FirebaseAnalytics (= 24)
 
 SPEC REPOS:
   trunk:
