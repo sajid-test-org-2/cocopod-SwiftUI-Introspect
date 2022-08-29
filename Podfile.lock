@@ -15,6 +15,7 @@ DEPENDENCIES:
   - SDWebImage (= 24)
   - FirebaseInstanceID (= 24)
   - TensorFlowLiteObjC (= 24)
+  - Masonry (= 24)
 
 SPEC REPOS:
   trunk:
